@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 28/4/2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +46,16 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot 2024-04-28 085707](https://github.com/dhivyadharshini2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979490/368b4bd0-c8f9-4adf-a3b9-0f5c08029b16)
 
-### Name:
-### Register Number:
+![Screenshot 2024-04-28 085732](https://github.com/dhivyadharshini2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979490/9d23b00e-3cdc-4ad3-85fe-5d42e5f08c1b)
+
+
+![Screenshot 2024-04-28 085759](https://github.com/dhivyadharshini2006/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979490/2a0d15b0-890c-40a4-9780-b6f51fd2e885)
+
+
+### Name: Dhivya Dharshini B
+### Register Number: 212223240031
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
